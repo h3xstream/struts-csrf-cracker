@@ -1,7 +1,8 @@
 Proof of concept code to predict Struts CSRF token. [[S2-023](http://struts.apache.org/docs/s2-023.html)]
 
+For a complete explanation, you can read : [Predicting Struts CSRF Token (CVE-2014-7809)](http://blog.h3xstream.com/2014/12/predicting-struts-csrf-token-cve-2014.html)
 
-**Execution preview**
+**Execution preview:**
 
     == Initial token
     H6P3Y3GHIC2865ASZVQ913NR93QZO7BR
